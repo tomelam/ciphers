@@ -1,0 +1,4 @@
+This repository contains programs I wrote for fun to understand
+the ciphers described in the excellent book "Hacking secret ciphers
+using Python" book. Instead of python, I wrote the programs in 
+Racket. The programs are written in a purely functional style.
